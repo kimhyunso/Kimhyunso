@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🌱 I’m currently learning python and bigData
+
+📫 How to reach me: gustn9515@naver.com
+
+⚡ Fun fact: cat saves the world
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true&theme=transparent)
 <!--
 **kimhyunso/kimhyunso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
