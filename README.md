@@ -4,7 +4,8 @@
 
 📫 How to reach me: gustn9515@naver.com
 
-⚡ Fun fact: cat saves the world
+⚡ Fun fact: sum(1~100) : 1+2+3+....+100 = 1+2+3+....+100 + 100+99+98....+1 = 101+101+101....+101 = 101 * 100 = 10100 /2 = 5050
+
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true&theme=transparent)-->
 <!--
