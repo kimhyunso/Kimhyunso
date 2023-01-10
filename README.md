@@ -1,4 +1,10 @@
 ### Hi there 👋
+🤔 I’m Interest
+- Math
+- Science
+- BigData
+- Web
+
 
 🌱 I’m currently learning python and bigData
 
