@@ -10,7 +10,7 @@
 
 📫 How to reach me: gustn9515@naver.com
 
-⚡ Fun fact: sum(1~100) : 1+2+3+....+100 = 1+2+3+....+100 + 100+99+98....+1 = 101+101+101....+101 = 101 * 100 = 10100 /2 = 5050
+⚡ Fun fact: sum(1~100) : $1+2+3+\dots+100 = 1+2+3+\dots+100 + 100+99+98\dots+1 = 101+101+101\dots+101 = 101 \time 100 = 10100 \div 2 = 5050$
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true&theme=transparent)-->
