@@ -11,6 +11,10 @@
 
 ⚡ Fun fact: sum(1~100) : $1+2+3+\dots+100 = 1+2+3+\dots+100 + 100+99+98\dots+1 = 101+101+101\dots+101 = 101 \times 100 = 10100 \div 2 = 5050$
 
+📚 Cooperation 👯
+👯 2023-08-07 ~ : 나라지식정보
+
+
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true&theme=transparent)-->
 <!--
