@@ -2,11 +2,10 @@
 🤔 I’m Interest
 - Math
 - Science
-- BigData
 - Web
 
 
-🌱 I’m currently learning python and bigData
+🌱 I’m currently learning javascript And Spring
 
 📫 How to reach me: gustn9515@naver.com
 
