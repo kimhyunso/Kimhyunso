@@ -5,7 +5,7 @@
 - Web
 
 
-🌱 I’m currently learning javascript And Spring
+🌱 I’m currently learning algorithm And Spring
 
 📫 How to reach me: gustn9515@naver.com
 
