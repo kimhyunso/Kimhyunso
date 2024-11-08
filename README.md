@@ -1,7 +1,6 @@
 ### Hi there 👋
 🤔 I’m currently learning
-- TDD (test-driven development)
-- DataStructure
+- Design Pattern
 
 📫 How to reach me: gustn9515@naver.com
 
